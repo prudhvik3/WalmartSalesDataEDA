@@ -1,6 +1,5 @@
 # WalmartSalesDataEDA
 
-![Walmart Store Front]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Walmart_Store.jpg/800px-Walmart_Store.jpg](https://en.m.wikipedia.org/wiki/File:Walmart_store_exterior_5266815680.jpg))
 
 
 Historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments, and you are tasked with predicting the department-wide sales for each store.
