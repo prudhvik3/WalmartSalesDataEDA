@@ -1,5 +1,6 @@
 # WalmartSalesDataEDA
 
+![download(2)](https://github.com/user-attachments/assets/47e2d833-ab54-4631-a03e-ce04b8a8afd5)
 
 
 Historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments, and you are tasked with predicting the department-wide sales for each store.
